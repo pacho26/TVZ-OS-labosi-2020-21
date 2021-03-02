@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59745409-c192-46be-ae8d-fb93896b5681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1kvWW8AS0Emy6js8wLnB7M33ysC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59745409-c192-46be-ae8d-fb93896b5681" name="Default Changelist" comment="" />
+      <created>1606581573937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606581573937</updated>
+      <workItem from="1606581575062" duration="3391000" />
+      <workItem from="1606610205603" duration="6624000" />
+      <workItem from="1606654695998" duration="13359000" />
+      <workItem from="1606688544000" duration="1042000" />
+      <workItem from="1606692247608" duration="2330000" />
+      <workItem from="1606751327602" duration="1694000" />
+      <workItem from="1606843095418" duration="937000" />
+      <workItem from="1606844866355" duration="16000" />
+      <workItem from="1606848000543" duration="738000" />
+      <workItem from="1606871094439" duration="3202000" />
+      <workItem from="1606907323614" duration="1974000" />
+      <workItem from="1610898964808" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606655500678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.6.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606655500678" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1610898992807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1920.54.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1610898992807" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606655005634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.6.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606655005634" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606665525112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.6.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606665525112" />
+  </component>
+</project>
